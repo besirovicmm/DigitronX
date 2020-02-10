@@ -30,6 +30,7 @@ namespace Digitron
 
             if (oduzimanje)
             {
+                Console.WriteLine(  );
                 Console.WriteLine(a-b);
             }
             else if (sabiranje)
